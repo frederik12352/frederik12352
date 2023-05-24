@@ -7,3 +7,6 @@ git init -> start nyt projekt
 git status -> se hvad der sker
 git add filnavn.txt
 git add .
+git commit -m "Besked"
+
+git push
